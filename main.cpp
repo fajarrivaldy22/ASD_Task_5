@@ -64,6 +64,7 @@ void displayMenu() {
     * prosedur menampilkan pilihan menu
     */
     cout<<"======================MENU====================="<<endl
+        <<"===CREATED BY M FAJAR RIVALDY===="<<endl
         <<"1.  insert first music"<<endl
         <<"2.  insert last music"<<endl
         <<"3.  view music list"<<endl
